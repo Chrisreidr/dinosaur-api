@@ -14,3 +14,14 @@ fetch(`https://dinosaur-api-100devs.herokuapp.com`)
 
 Use parameters /api/:dinosaur-name for object on said dinosaur. For example,
 https://dinosaur-api-100devs.herokuapp.com/api/tyrannosaurs will return the object for Tyrannosaurus
+
+The parameters currently include:  
+/species
+/family
+/size
+/weight
+/timePeriod
+/timeline
+/regions
+/diet
+/description
